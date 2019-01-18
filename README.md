@@ -8,7 +8,7 @@ School: Columbia University
 
 Level: Graduate
 
-Project Requirement: student needs to choose a "old wives' tale", and prove or disapprove by investigating stocks prices.
+Project Requirement: student needs to choose an "old wives' tale", and prove or disapprove by investigating stocks prices.
 
 # My Grade
 
