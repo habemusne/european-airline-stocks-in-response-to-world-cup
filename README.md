@@ -22,4 +22,4 @@ Project Requirement: student needs to choose an "old wives' tale", and prove or 
 
 # Reproducing My Results
 
-The code was written in R. The instructor seems to deem its quality way beyond expectation... But he preferred me not to publicly release the code (as this is not a programming course, he concerns that it may scare new students...)
+The code was written in R. The instructor seems to deem its quality way beyond expectation... So he preferred me not to publicly release the code (as this is not a programming course, he concerns that it may scare new students...)
